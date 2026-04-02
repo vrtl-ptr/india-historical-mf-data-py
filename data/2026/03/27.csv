@@ -9593,10 +9593,6 @@ Mahindra Manulife Mutual Fund
 149229;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;INF174V01AX2;INF174V01AW4;10.2521;;;27-Mar-2026
 
 Mirae Asset Mutual Fund
-154187;Mirae Asset BSE India Defence ETF FOF - Direct Plan - Growth;INF769K01QG3;;9.062;;;27-Mar-2026
-154188;Mirae Asset BSE India Defence ETF FOF - Direct Plan - IDCW;INF769K01QI9;INF769K01QH1;9.061;;;27-Mar-2026
-154189;Mirae Asset BSE India Defence ETF FOF - Regular Plan - Growth;INF769K01QD0;;9.056;;;27-Mar-2026
-154190;Mirae Asset BSE India Defence ETF FOF - Regular Plan - IDCW;INF769K01QF5;INF769K01QE8;9.056;;;27-Mar-2026
 150595;Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF - Direct Plan - Growth;INF769K01IQ9;;14.913;;;27-Mar-2026
 150594;Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF - Regular Plan - Growth;INF769K01IP1;;14.695;;;27-Mar-2026
 150597;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;INF769K01IS5;;25.289;;;27-Mar-2026
@@ -9908,6 +9904,9 @@ HSBC Mutual Fund
 129192;HSBC Multi Asset Active FOF IDCW;INF336L01IE1;INF336L01IF8;29.6246;;;27-Mar-2026
 
 ICICI Prudential Mutual Fund
+120700;ICICI Prudential Aggressive Hybrid Active FOF - Direct Plan - Growth;INF109K01X40;;223.1761;;;27-Mar-2026
+102135;ICICI Prudential Aggressive Hybrid Active FOF - Growth;INF109K01852;;207.3584;;;27-Mar-2026
+102136;ICICI Prudential Aggressive Hybrid Active FOF - IDCW;INF109K01FR2;INF109K01860;160.7417;;;27-Mar-2026
 143904;ICICI Prudential BHARAT 22 FOF - Cumulative Option;INF109KC1FW3;;33.7164;;;27-Mar-2026
 143903;ICICI Prudential BHARAT 22 FOF - Direct Plan Cumulative Option;INF109KC1FX1;;33.7272;;;27-Mar-2026
 149331;ICICI Prudential BSE 500 ETF FOF - Direct Plan - Growth;INF109KC1V91;;14.4265;;;27-Mar-2026
@@ -9964,9 +9963,6 @@ ICICI Prudential Mutual Fund
 149776;ICICI Prudential Silver ETF FOF - Direct Plan - IDCW;INF109KC1Z06;INF109KC1Z14;33.9172;;;27-Mar-2026
 149777;ICICI Prudential Silver ETF FOF - Growth;INF109KC1Y64;;33.2268;;;27-Mar-2026
 149778;ICICI Prudential Silver ETF FOF - IDCW;INF109KC1Y72;INF109KC1Y80;33.2262;;;27-Mar-2026
-120700;ICICI Prudential Thematic Advantage Fund (FOF) - Direct Plan - Growth;INF109K01X40;;223.1761;;;27-Mar-2026
-102135;ICICI Prudential Thematic Advantage Fund (FOF) - Growth;INF109K01852;;207.3584;;;27-Mar-2026
-102136;ICICI Prudential Thematic Advantage Fund (FOF) - IDCW;INF109K01FR2;INF109K01860;160.7417;;;27-Mar-2026
 
 Invesco Mutual Fund
 120531;Invesco India Gold ETF Fund of Fund - Direct Plan - Growth;INF205K01NJ9;;41.1904;;;27-Mar-2026
@@ -10013,6 +10009,10 @@ Mirae Asset Mutual Fund
 153381;Mirae Asset BSE 200 Equal Weight ETF Fund of Fund - Direct Plan - IDCW;INF769K01OG8;INF769K01OF0;10.396;;;27-Mar-2026
 153382;Mirae Asset BSE 200 Equal Weight ETF Fund of Fund - Regular Plan - Growth;INF769K01OB9;;10.341;;;27-Mar-2026
 153383;Mirae Asset BSE 200 Equal Weight ETF Fund of Fund - Regular Plan - IDCW;INF769K01OD5;INF769K01OC7;10.341;;;27-Mar-2026
+154187;Mirae Asset BSE India Defence ETF FOF - Direct Plan - Growth;INF769K01QG3;;9.062;;;27-Mar-2026
+154188;Mirae Asset BSE India Defence ETF FOF - Direct Plan - IDCW;INF769K01QI9;INF769K01QH1;9.061;;;27-Mar-2026
+154189;Mirae Asset BSE India Defence ETF FOF - Regular Plan - Growth;INF769K01QD0;;9.056;;;27-Mar-2026
+154190;Mirae Asset BSE India Defence ETF FOF - Regular Plan - IDCW;INF769K01QF5;INF769K01QE8;9.056;;;27-Mar-2026
 153385;Mirae Asset BSE Select IPO ETF Fund of Fund - Direct Plan - Growth;INF769K01OK0;;9.697;;;27-Mar-2026
 153386;Mirae Asset BSE Select IPO ETF Fund of Fund - Direct Plan - IDCW;INF769K01OM6;INF769K01OL8;9.695;;;27-Mar-2026
 153387;Mirae Asset BSE Select IPO ETF Fund of Fund - Regular Plan - Growth;INF769K01OH6;;9.660;;;27-Mar-2026
