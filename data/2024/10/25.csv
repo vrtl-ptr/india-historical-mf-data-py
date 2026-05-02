@@ -1489,10 +1489,10 @@ Baroda BNP Paribas Mutual Fund
 152699;Baroda BNP Paribas Manufacturing Fund - Regular Plan - IDCW Option;INF251K01TN2;INF251K01TO0;9.5372;;;25-Oct-2024
 
 Canara Robeco Mutual Fund
-118273;CANARA ROBECO CONSUMER TRENDS FUND - DIRECT PLAN - GROWTH OPTION;INF760K01DU1;;124.2400;;;25-Oct-2024
-118274;CANARA ROBECO CONSUMER TRENDS FUND - DIRECT PLAN - IDCW (Payout/Reinvestment);INF760K01DS5;INF760K01DT3;89.2200;;;25-Oct-2024
-112152;CANARA ROBECO CONSUMER TRENDS FUND - REGULAR PLAN - GROWTH OPTION;INF760K01241;;109.0500;;;25-Oct-2024
-112153;CANARA ROBECO CONSUMER TRENDS FUND - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01225;INF760K01233;49.3000;;;25-Oct-2024
+118273;CANARA ROBECO CONSUMPTION FUND - DIRECT PLAN - GROWTH OPTION;INF760K01DU1;;124.2400;;;25-Oct-2024
+118274;CANARA ROBECO CONSUMPTION FUND - DIRECT PLAN - IDCW (Payout/Reinvestment);INF760K01DS5;INF760K01DT3;89.2200;;;25-Oct-2024
+112152;CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - GROWTH OPTION;INF760K01241;;109.0500;;;25-Oct-2024
+112153;CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01225;INF760K01233;49.3000;;;25-Oct-2024
 118267;CANARA ROBECO INFRASTRUCTURE FUND - DIRECT PLAN - GROWTH OPTION;INF760K01FO9;;173.5400;;;25-Oct-2024
 118268;CANARA ROBECO INFRASTRUCTURE FUND - DIRECT PLAN - IDCW (Payout/Reinvestment);INF760K01FM3;INF760K01FN1;87.2900;;;25-Oct-2024
 103390;CANARA ROBECO INFRASTRUCTURE FUND - REGULAR PLAN - GROWTH OPTION;INF760K01274;;155.8000;;;25-Oct-2024
@@ -1571,6 +1571,10 @@ HDFC Mutual Fund
 150805;HDFC Business Cycle Fund - Growth Option - Direct Plan;INF179KC1DY9;;14.599;;;25-Oct-2024
 150806;HDFC Business Cycle Fund - IDCW Option;INF179KC1EC3;INF179KC1ED1;14.234;;;25-Oct-2024
 150804;HDFC Business Cycle Fund - IDCW Option - Direct Plan;INF179KC1DZ6;INF179KC1EA7;14.599;;;25-Oct-2024
+151803;HDFC Consumption Fund - Growth Option;INF179KC1GR6;;14.217;;;25-Oct-2024
+151804;HDFC Consumption Fund - Growth Option - Direct Plan;INF179KC1GO3;;14.446;;;25-Oct-2024
+151802;HDFC Consumption Fund - IDCW Option;INF179KC1GS4;INF179KC1GT2;14.217;;;25-Oct-2024
+151805;HDFC Consumption Fund - IDCW Option - Direct Plan;INF179KC1GP0;INF179KC1GQ8;14.446;;;25-Oct-2024
 151751;HDFC Defence Fund - Growth Option;INF179KC1GL9;;20.085;;;25-Oct-2024
 151750;HDFC Defence Fund - Growth Option - Direct Plan;INF179KC1GI5;;20.434;;;25-Oct-2024
 151748;HDFC Defence Fund - IDCW Option;INF179KC1GM7;INF179KC1GN5;20.085;;;25-Oct-2024
@@ -1591,10 +1595,6 @@ HDFC Mutual Fund
 151458;HDFC MNC Fund - Growth Option - Direct Plan;INF179KC1FC0;;14.217;;;25-Oct-2024
 151459;HDFC MNC Fund - IDCW Option;INF179KC1FG1;INF179KC1FH9;13.943;;;25-Oct-2024
 151460;HDFC MNC Fund - IDCW Option - Direct Plan;INF179KC1FD8;INF179KC1FE6;14.217;;;25-Oct-2024
-151803;HDFC Non-Cyclical Consumer Fund - Growth Option;INF179KC1GR6;;14.217;;;25-Oct-2024
-151804;HDFC Non-Cyclical Consumer Fund - Growth Option - Direct Plan;INF179KC1GO3;;14.446;;;25-Oct-2024
-151802;HDFC Non-Cyclical Consumer Fund - IDCW Option;INF179KC1GS4;INF179KC1GT2;14.217;;;25-Oct-2024
-151805;HDFC Non-Cyclical Consumer Fund - IDCW Option - Direct Plan;INF179KC1GP0;INF179KC1GQ8;14.446;;;25-Oct-2024
 152084;HDFC Pharma and Healthcare Fund - Growth Option;INF179KC1HL7;;15.808;;;25-Oct-2024
 152082;HDFC Pharma and Healthcare Fund - Growth Option - Direct Plan;INF179KC1HO1;;16.016;;;25-Oct-2024
 152083;HDFC Pharma and Healthcare Fund - IDCW Option;INF179KC1HM5;INF179KC1HN3;15.808;;;25-Oct-2024
@@ -2646,10 +2646,10 @@ JM Financial Mutual Fund
 147836;JM Overnight Fund (Regular) - Growth;INF192K01LX4;;1256.8442;;;25-Oct-2024
 147834;JM Overnight Fund (Regular) - Weekly IDCW;INF192K01LV8;INF192K01LW6;1000.5314;;;25-Oct-2024
 147837;JM Overnight Fund - (Direct) - Growth;INF192K01MB8;;1261.1411;;;25-Oct-2024
-149828;JM Overnight Fund - (Direct) - Unclaimed IDCW - Growth Plan;;;1267.7684;;;25-Oct-2024
-149827;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;;;1073.9936;;;25-Oct-2024
-149829;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;;;1261.1596;;;25-Oct-2024
-149826;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;;;1073.9936;;;25-Oct-2024
+149828;JM Overnight Fund - (Direct) - Unclaimed IDCW - Growth Plan;INF192K01MJ1;;1267.7684;;;25-Oct-2024
+149827;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;INF192K01ML7;;1073.9936;;;25-Oct-2024
+149829;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;INF192K01MI3;;1261.1596;;;25-Oct-2024
+149826;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;INF192K01MK9;;1073.9936;;;25-Oct-2024
 
 Kotak Mahindra Mutual Fund
 146141;Kotak Overnight Fund -Direct Plan-Growth Option;INF174KA1BF9;;1325.077;;;25-Oct-2024
@@ -4104,14 +4104,14 @@ Franklin Templeton Mutual Fund
 148316;Franklin India Short-term Income Plan-Retail Plan-Segregated Portfolio 3 (9.50% Yes Bank Ltd CO 23Dec21) - Direct Weekly - IDCW;INF090I01VV7;;0.0000;;;25-Oct-2024
 
 Groww Mutual Fund
-123708;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund )- Regular Plan - Growth Option;INF666M01AJ5;;1973.7668;;;25-Oct-2024
-123704;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund) - Direct Plan - Growth Option;INF666M01AC0;;2251.0334;;;25-Oct-2024
-123706;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AH9;INF666M01AE6;1015.993;;;25-Oct-2024
-123707;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AI7;INF666M01AF3;1018.9659;;;25-Oct-2024
-123705;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AG1;INF666M01AD8;1013.8464;;;25-Oct-2024
-123710;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AO5;INF666M01AL1;1016.8847;;;25-Oct-2024
-123711;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AP2;INF666M01AM9;1023.9197;;;25-Oct-2024
-123709;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AN7;INF666M01AK3;1013.6286;;;25-Oct-2024
+123708;Groww Short Term Fund (formerly known as Indiabulls Short Term Fund )- Regular Plan - Growth Option;INF666M01AJ5;;1973.7668;;;25-Oct-2024
+123704;Groww Short Term Fund (formerly known as Indiabulls Short Term Fund) - Direct Plan - Growth Option;INF666M01AC0;;2251.0334;;;25-Oct-2024
+123706;Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AH9;INF666M01AE6;1015.993;;;25-Oct-2024
+123707;Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AI7;INF666M01AF3;1018.9659;;;25-Oct-2024
+123705;Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AG1;INF666M01AD8;1013.8464;;;25-Oct-2024
+123710;Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AO5;INF666M01AL1;1016.8847;;;25-Oct-2024
+123711;Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AP2;INF666M01AM9;1023.9197;;;25-Oct-2024
+123709;Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AN7;INF666M01AK3;1013.6286;;;25-Oct-2024
 
 HDFC Mutual Fund
 119015;HDFC Short Term  Debt Fund - Fortnightly IDCW - Direct Plan;;;10.3288;;;25-Oct-2024
@@ -4698,16 +4698,16 @@ Franklin Templeton Mutual Fund
 148310;Franklin India Dynamic Accrual Fund-Segregated Portfolio 3 (9.50% Yes Bank Ltd CO 23Dec21) - Direct IDCW;INF090I01WC5;;0.0000;;;25-Oct-2024
 
 Groww Mutual Fund
-145589;Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund) - Direct Plan - Growth option;INF666M01EK5;;1455.8635;;;25-Oct-2024
-145590;Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund) - Regular Plan - Growth option;INF666M01ES8;;1403.6518;;;25-Oct-2024
-145596;Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01EL3;1009.3195;;;25-Oct-2024
-145595;Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EO7;INF666M01EP4;1014.1783;;;25-Oct-2024
-145591;Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EQ2;INF666M01ER0;1007.4499;;;25-Oct-2024
-145597;Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EM1;INF666M01EN9;1008.9615;;;25-Oct-2024
-145593;Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01ET6;1011.1769;;;25-Oct-2024
-145598;Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EW0;INF666M01EX8;1008.2556;;;25-Oct-2024
-145592;Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EY6;INF666M01EZ3;1006.6935;;;25-Oct-2024
-145594;Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EU4;INF666M01EV2;1008.6332;;;25-Oct-2024
+145589;Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund) - Direct Plan - Growth option;INF666M01EK5;;1455.8635;;;25-Oct-2024
+145590;Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund) - Regular Plan - Growth option;INF666M01ES8;;1403.6518;;;25-Oct-2024
+145596;Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01EL3;1009.3195;;;25-Oct-2024
+145595;Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EO7;INF666M01EP4;1014.1783;;;25-Oct-2024
+145591;Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EQ2;INF666M01ER0;1007.4499;;;25-Oct-2024
+145597;Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EM1;INF666M01EN9;1008.9615;;;25-Oct-2024
+145593;Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01ET6;1011.1769;;;25-Oct-2024
+145598;Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EW0;INF666M01EX8;1008.2556;;;25-Oct-2024
+145592;Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EY6;INF666M01EZ3;1006.6935;;;25-Oct-2024
+145594;Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01EU4;INF666M01EV2;1008.6332;;;25-Oct-2024
 
 HDFC Mutual Fund
 101872;HDFC Dynamic Debt Fund - Growth Option;INF179K01848;;85.5302;;;25-Oct-2024
@@ -7111,8 +7111,8 @@ Union Mutual Fund
 150553;Union Retirement Fund - Regular Plan - IDCW Option;INF582M01IN9;;15.10;;;25-Oct-2024
 
 UTI Mutual Fund
-100682;UTI Retirement Fund - Regular Plan;;;47.7012;;;25-Oct-2024
-120766;UTI Retirement Fund- Direct Plan;;;51.2449;;;25-Oct-2024
+100682;UTI Retirement Fund - Regular Plan;INF789F1AA56;;47.7012;;;25-Oct-2024
+120766;UTI Retirement Fund- Direct Plan;INF789F1AA64;;51.2449;;;25-Oct-2024
 
 Open Ended Schemes ( Solution Oriented Scheme - Children’s Fund )
 
@@ -7161,12 +7161,12 @@ Union Mutual Fund
 152217;Union Children's Fund - Regular Plan - Growth Option;INF582M01JI7;;11.88;;;25-Oct-2024
 
 UTI Mutual Fund
-120724;UTI Children's Equity Fund - Direct Plan - Growth Option;;;93.0687;;;25-Oct-2024
-120725;UTI Children's Equity Fund - Direct Plan - IDCW;;;93.2295;;;25-Oct-2024
-102267;UTI Children's Equity Fund - Regular Plan - Growth Option;;;84.4415;;;25-Oct-2024
-102266;UTI Children's Equity Fund - Regular Plan - IDCW;;;84.4466;;;25-Oct-2024
-120771;UTI Children's Hybrid Fund - Direct Plan;;;39.7587;;;25-Oct-2024
-100678;UTI Children's Hybrid Fund - Regular Plan;;;38.9389;;;25-Oct-2024
+120724;UTI Children's Equity Fund - Direct Plan - Growth Option;INF789F1AZV0;;93.0687;;;25-Oct-2024
+120725;UTI Children's Equity Fund - Direct Plan - IDCW;INF789F1AZZ1;;93.2295;;;25-Oct-2024
+102267;UTI Children's Equity Fund - Regular Plan - Growth Option;INF789F1AZT4;;84.4415;;;25-Oct-2024
+102266;UTI Children's Equity Fund - Regular Plan - IDCW;INF789F1AZX6;;84.4466;;;25-Oct-2024
+120771;UTI Children's Hybrid Fund - Direct Plan;INF789F1AZR8;;39.7587;;;25-Oct-2024
+100678;UTI Children's Hybrid Fund - Regular Plan;INF789F1AZP2;;38.9389;;;25-Oct-2024
 
 Open Ended Schemes ( Other Scheme - Index Funds )
 
@@ -8146,13 +8146,13 @@ ICICI Prudential Mutual Fund
 113076;ICICI Prudential Gold ETF;INF109KC1NT3;;67.4029;;;25-Oct-2024
 
 Invesco Mutual Fund
-112368;Invesco India Gold Exchange Traded Fund;INF205K01361;;6845.6953;;;25-Oct-2024
+112368;Invesco India Gold Exchange Traded Fund;INF205KA1BP1;;6845.6953;;;25-Oct-2024
 
 Kotak Mahindra Mutual Fund
 106193;KOTAK GOLD ETF;INF174KA1HJ8;;65.8122;;;25-Oct-2024
 
 LIC Mutual Fund
-151961;LIC MF Gold Exchange Traded Fund;INF397L01554;;7078.3302;;;25-Oct-2024
+151961;LIC MF Gold Exchange Traded Fund;INF767K01SM1;;7078.3302;;;25-Oct-2024
 
 Mirae Asset Mutual Fund
 151416;Mirae Asset Gold ETF;INF769K01JP9;;76.7082;;;25-Oct-2024
@@ -8305,15 +8305,15 @@ Kotak Mahindra Mutual Fund
 150000;Kotak Nifty 100 Low Volatility 30 ETF;INF174KA1IY5;;20.431;;;25-Oct-2024
 151358;Kotak Nifty 1D Rate Liquid ETF;INF174KA1LV5;;1015.2787;;;25-Oct-2024
 112351;Kotak Nifty 50 ETF;INF174K014P6;;262.6161;;;25-Oct-2024
-135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;156.1369;;;25-Oct-2024
+135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174KA1ZE1;;156.1369;;;25-Oct-2024
 149397;Kotak Nifty Alpha 50 ETF;INF174KA1IA5;;52.2136;;;25-Oct-2024
-133122;Kotak Nifty Bank ETF;INF174K01F59;;522.188;;;25-Oct-2024
-150492;Kotak Nifty India Consumption ETF;INF174KA1JE5;;117.2645;;;25-Oct-2024
+133122;Kotak Nifty Bank ETF;INF174KA1ZB7;;522.188;;;25-Oct-2024
+150492;Kotak Nifty India Consumption ETF;INF174KA1ZF8;;117.2645;;;25-Oct-2024
 148763;Kotak Nifty IT ETF;INF174KA1GC5;;44.7544;;;25-Oct-2024
-149757;Kotak Nifty Midcap 50 ETF;INF174KA1IB3;;156.4485;;;25-Oct-2024
+149757;Kotak Nifty Midcap 50 ETF;INF174KA1ZC5;;156.4485;;;25-Oct-2024
 150531;Kotak Nifty MNC ETF;INF174KA1JF2;;29.5021;;;25-Oct-2024
 106929;Kotak Nifty PSU Bank ETF;INF373I01023;;627.1124;;;25-Oct-2024
-150948;Kotak Silver ETF;INF174KA1KU9;;93.7277;;;25-Oct-2024
+150948;Kotak Silver ETF;INF174KA1ZD3;;93.7277;;;25-Oct-2024
 
 LIC Mutual Fund
 135672;LIC MF BSE Sensex ETF;INF767K01OT5;;879.6973;;;25-Oct-2024
@@ -8838,6 +8838,9 @@ HSBC Mutual Fund
 129192;HSBC Multi Asset Active FOF IDCW;INF336L01IE1;INF336L01IF8;29.4322;;;25-Oct-2024
 
 ICICI Prudential Mutual Fund
+120700;ICICI Prudential Aggressive Hybrid Active FOF - Direct Plan - Growth;INF109K01X40;;224.5162;;;25-Oct-2024
+102135;ICICI Prudential Aggressive Hybrid Active FOF - Growth;INF109K01852;;212.1263;;;25-Oct-2024
+102136;ICICI Prudential Aggressive Hybrid Active FOF - IDCW;INF109K01FR2;INF109K01860;164.4380;;;25-Oct-2024
 143904;ICICI Prudential BHARAT 22 FOF - Cumulative Option;INF109KC1FW3;;32.3493;;;25-Oct-2024
 143903;ICICI Prudential BHARAT 22 FOF - Direct Plan Cumulative Option;INF109KC1FX1;;32.3591;;;25-Oct-2024
 149331;ICICI Prudential BSE 500 ETF FOF - Direct Plan - Growth;INF109KC1V91;;15.4394;;;25-Oct-2024
@@ -8888,9 +8891,6 @@ ICICI Prudential Mutual Fund
 149776;ICICI Prudential Silver ETF FOF - Direct Plan - IDCW;INF109KC1Z06;INF109KC1Z14;14.9830;;;25-Oct-2024
 149777;ICICI Prudential Silver ETF FOF - Growth;INF109KC1Y64;;14.7775;;;25-Oct-2024
 149778;ICICI Prudential Silver ETF FOF - IDCW;INF109KC1Y72;INF109KC1Y80;14.7773;;;25-Oct-2024
-120700;ICICI Prudential Thematic Advantage Fund (FOF) - Direct Plan - Growth;INF109K01X40;;224.5162;;;25-Oct-2024
-102135;ICICI Prudential Thematic Advantage Fund (FOF) - Growth;INF109K01852;;212.1263;;;25-Oct-2024
-102136;ICICI Prudential Thematic Advantage Fund (FOF) - IDCW;INF109K01FR2;INF109K01860;164.4380;;;25-Oct-2024
 
 Invesco Mutual Fund
 120531;Invesco India Gold ETF Fund of Fund - Direct Plan - Growth;INF205K01NJ9;;23.219;;;25-Oct-2024
@@ -9326,18 +9326,18 @@ DSP Mutual Fund
 149191;DSP FMP Series - 264 - 60M - 17D - Direct - IDCW;INF740KA1QI6;INF740KA1QJ4;11.8887;;;25-Oct-2024
 149189;DSP FMP Series - 264 - 60M - 17D - Regular - IDCW;INF740KA1QF2;INF740KA1QG0;11.8330;;;25-Oct-2024
 149188;DSP FMP Series - 264 - 60M - 17D - Regular Plan - Growth;INF740KA1QE5;;11.8333;;;25-Oct-2024
-150842;DSP FMP Series - 267 - 1246 Days - Direct - Growth;INF740KA1RI4;;11.5508;;;25-Oct-2024
-150840;DSP FMP Series - 267 - 1246 Days - Direct - IDCW;INF740KA1RK0;INF740KA1RJ2;11.5507;;;25-Oct-2024
-150843;DSP FMP Series - 267 - 1246 Days - Regular - Growth;INF740KA1RF0;;11.5261;;;25-Oct-2024
-150841;DSP FMP Series - 267 - 1246 Days - Regular - IDCW;INF740KA1RH6;INF740KA1RG8;11.5261;;;25-Oct-2024
+150842;DSP FMP Series - 267 - 1172 Days - Direct - Growth;INF740KA1YL4;;11.5508;;;25-Oct-2024
+150840;DSP FMP Series - 267 - 1172 Days - Direct - IDCW;INF740KA1YM2;INF740KA1YN0;11.5507;;;25-Oct-2024
+150843;DSP FMP Series - 267 - 1172 Days - Regular - Growth;INF740KA1YI0;;11.5261;;;25-Oct-2024
+150841;DSP FMP Series - 267 - 1172 Days - Regular - IDCW;INF740KA1YJ8;INF740KA1YK6;11.5261;;;25-Oct-2024
 150885;DSP FMP Series - 268 - 1281 Days - Direct - Growth;INF740KA1RO2;;11.5417;;;25-Oct-2024
 150886;DSP FMP Series - 268 - 1281 Days - Direct - IDCW;INF740KA1RQ7;INF740KA1RP9;11.5408;;;25-Oct-2024
 150884;DSP FMP Series - 268 - 1281 Days - Regular - Growth;INF740KA1RL8;;11.5086;;;25-Oct-2024
 150887;DSP FMP Series - 268 - 1281 Days - Regular - IDCW;INF740KA1RN4;INF740KA1RM6;11.5086;;;25-Oct-2024
-151449;DSP FMP Series - 270 - 1144 Days - Direct - Growth;INF740KA1SN2;;11.3379;;;25-Oct-2024
-151450;DSP FMP Series - 270 - 1144 Days - Direct - IDCW;INF740KA1SO0;INF740KA1SP7;11.3381;;;25-Oct-2024
-151447;DSP FMP Series - 270 - 1144 Days - Regular - Growth;INF740KA1SK8;;11.3190;;;25-Oct-2024
-151448;DSP FMP Series - 270 - 1144 Days - Regular - IDCW;INF740KA1SL6;INF740KA1SM4;11.3189;;;25-Oct-2024
+151449;DSP FMP Series - 270 - 1172 Days - Direct - Growth;INF740KA1YR1;;11.3379;;;25-Oct-2024
+151450;DSP FMP Series - 270 - 1172 Days - Direct - IDCW;INF740KA1YS9;INF740KA1YT7;11.3381;;;25-Oct-2024
+151447;DSP FMP Series - 270 - 1172 Days - Regular - Growth;INF740KA1YO8;;11.3190;;;25-Oct-2024
+151448;DSP FMP Series - 270 - 1172 Days - Regular - IDCW;INF740KA1YP5;INF740KA1YQ3;11.3189;;;25-Oct-2024
 
 HDFC Mutual Fund
 151865;HDFC Charity Fund for Cancer Cure - IDCW Option - 50% IDCW Donation Option;INF179KC1HC6;;10.4196;;;25-Oct-2024
@@ -9764,22 +9764,22 @@ Nippon India Mutual Fund
 105663;Nippon India Interval Fund Annual Interval Fund Series-I- Growth Option;INF204K01EC6;;25.6994;;;25-Oct-2024
 105661;Nippon India Interval Fund Annual Interval Fund Series-I-Retail Plan Growth Option;INF204K01DZ9;;34.5356;;;25-Oct-2024
 105229;Nippon India Interval Fund-Monthly Interval Fund-Series-I- Growth Option;INF204K01CV0;;32.1014;;;25-Oct-2024
-118598;Nippon India Monthly Interval Fund - Series I - Direct Plan Growth Plan - Growth;INF204K01ZA5;-;32.4851;;;25-Oct-2024
+118598;Nippon India Monthly Interval Fund - Series I - Direct Plan Growth Plan - Growth;INF204K01ZA5;;32.4851;;;25-Oct-2024
 105230;NIPPON INDIA MONTHLY INTERVAL FUND - SERIES I - IDCW Option;INF204K01CW8;INF204K01CX6;10.0169;;;25-Oct-2024
 105400;Nippon India Interval Fund-Monthly Interval Fund-Series-II -Growth Option;INF204K01DB0;;31.8901;;;25-Oct-2024
 118594;NIPPON INDIA MONTHLY INTERVAL FUND - SERIES II - Direct Plan - IDCW Option;INF204K01ZE7;INF204K01ZF4;10.0374;;;25-Oct-2024
-118595;Nippon India Monthly Interval Fund - Series II - Direct Plan Growth Plan - Growth;INF204K01ZD9;-;32.4506;;;25-Oct-2024
+118595;Nippon India Monthly Interval Fund - Series II - Direct Plan Growth Plan - Growth;INF204K01ZD9;;32.4506;;;25-Oct-2024
 105401;NIPPON INDIA MONTHLY INTERVAL FUND - SERIES II - IDCW Option;INF204K01DC8;INF204K01DD6;10.0371;;;25-Oct-2024
 105689;Nippon India Interval Fund-Quarterly Interval Fund Series-II-Growth Option;INF204K01DN5;;34.4929;;;25-Oct-2024
 118689;NIPPON INDIA QUARTERLY INTERVAL FUND - SERIES II - Direct Plan - IDCW Option;INF204K01F46;INF204K01F53;12.1315;;;25-Oct-2024
 118691;Nippon India Quarterly Interval Fund - Series II - Direct Plan Growth Plan - Growth;INF204K01F61;-;35.0089;;;25-Oct-2024
 105692;NIPPON INDIA QUARTERLY INTERVAL FUND - SERIES II - IDCW Option;INF204K01DO3;INF204K01DP0;12.0947;;;25-Oct-2024
-118623;Nippon India Interval Fund - Quarterly Plan - Series I - Direct Plan Growth Plan - Growth;INF204K01XT0;-;33.2401;;;25-Oct-2024
+118623;Nippon India Interval Fund - Quarterly Plan - Series I - Direct Plan Growth Plan - Growth;INF204K01XT0;;33.2401;;;25-Oct-2024
 105434;NIPPON INDIA INTERVAL FUND - QUARTERLY PLAN - SERIES I - IDCW Option;INF204K01DI5;INF204K01DJ3;11.9350;;;25-Oct-2024
 105436;NIPPON INDIA INTERVAL FUND - QUARTERLY PLAN - SERIES I - INSTITUTIONAL IDCW Option;INF204K01DL9;INF204K01DM7;11.9190;;;25-Oct-2024
 105433;Nippon India Interval Fund-Quarterly Interval Fund-Series-I - Growth Option;INF204K01DH7;;32.6560;;;25-Oct-2024
 105884;Nippon India Interval Fund-Quarterly Interval Fund-Series-III- Growth Option;INF204K01DT2;;33.0382;;;25-Oct-2024
 105882;Nippon India Interval Fund-Quarterly Interval Fund-Series-III-Institutional Plan-Growth Option;INF204K01DW6;;17.9330;;;25-Oct-2024
 118584;NIPPON INDIA QUARTERLY INTERVAL FUND - SERIES III - Direct Plan - IDCW Option;INF204K01XX2;INF204K01XY0;12.0636;;;25-Oct-2024
-118583;Nippon India Quarterly Interval Fund - Series III - Direct Plan Growth Plan - Growth;INF204K01XW4;-;20.3568;;;25-Oct-2024
+118583;Nippon India Quarterly Interval Fund - Series III - Direct Plan Growth Plan - Growth;INF204K01XW4;;20.3568;;;25-Oct-2024
 105885;NIPPON INDIA QUARTERLY INTERVAL FUND - SERIES III - IDCW Option;INF204K01DU0;INF204K01DV8;11.9927;;;25-Oct-2024

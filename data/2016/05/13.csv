@@ -334,9 +334,9 @@ Nippon India Mutual Fund
 124877;Reliance Interval Fund - II - Series 4-Dividend Plan -Dividend Option;INF204KA1BB2;INF204KA1BC0;10.3945;10.3945;10.3945;13-May-2016
 124874;Reliance Interval Fund - II - Series 4-Growth Plan-Growth Option;INF204KA1BD8;;12.2842;12.2842;12.2842;13-May-2016
 120954;Reliance Yearly Interval Fund - Series 2 - Direct Plan - Dividend Plan - Dividend Option;INF204K01R83;INF204K01R91;10.2259;10.2259;10.2259;13-May-2016
-120955;Reliance Yearly Interval Fund - Series 2 - Direct Plan - Growth Plan - Growth Option;INF204K01R75;-;13.3325;13.3325;13.3325;13-May-2016
+120955;Reliance Yearly Interval Fund - Series 2 - Direct Plan - Growth Plan - Growth Option;INF204K01R75;;13.3325;13.3325;13.3325;13-May-2016
 120957;Reliance Yearly Interval Fund - Series 2 - Dividend Plan - Dividend Option;INF204K01R59;INF204K01R67;10.2234;10.2234;10.2234;13-May-2016
-120956;Reliance Yearly Interval Fund - Series 2 - Growth Plan - Growth Option;INF204K01R42;-;13.3015;13.3015;13.3015;13-May-2016
+120956;Reliance Yearly Interval Fund - Series 2 - Growth Plan - Growth Option;INF204K01R42;;13.3015;13.3015;13.3015;13-May-2016
 121701;Reliance Yearly Interval Fund - Series 5 - Direct Plan - Growth Plan - Growth Option;INF204K01T57;-;13.0367;13.0367;13.0367;13-May-2016
 121699;Reliance Yearly Interval Fund - Series 5 - Growth Plan - Growth Option;INF204K01T24;-;12.9953;12.9953;12.9953;13-May-2016
 122653;Reliance Yearly Interval Fund - Series 8 - Direct Plan - Growth Plan - Growth Option;INF204K01V38;;12.7016;12.7016;12.7016;13-May-2016
@@ -1747,11 +1747,11 @@ Baroda BNP Paribas Mutual Fund
 117547;Baroda BNP Paribas Banking and Financial Services Fund - Regular - IDCW Option;INF955L01831;;13.64;13.50;13.64;13-May-2016
 
 Canara Robeco Mutual Fund
-118273;CANARA ROBECO CONSUMER TRENDS FUND - DIRECT PLAN - GROWTH OPTION;INF760K01DU1;;25.5000;25.5000;25.5000;13-May-2016
-118274;CANARA ROBECO CONSUMER TRENDS FUND - DIRECT PLAN - IDCW (Payout/Reinvestment);INF760K01DS5;INF760K01DT3;23.7100;23.7100;23.7100;13-May-2016
 112150;Canara Robeco Consumer Trends Fund - Institutional Plan - Growth Option;INF760K01217;;24.8900;24.8900;24.8900;13-May-2016
-112152;CANARA ROBECO CONSUMER TRENDS FUND - REGULAR PLAN - GROWTH OPTION;INF760K01241;;24.8700;24.8700;24.8700;13-May-2016
-112153;CANARA ROBECO CONSUMER TRENDS FUND - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01225;INF760K01233;19.3700;19.3700;19.3700;13-May-2016
+118273;CANARA ROBECO CONSUMPTION FUND - DIRECT PLAN - GROWTH OPTION;INF760K01DU1;;25.5000;25.5000;25.5000;13-May-2016
+118274;CANARA ROBECO CONSUMPTION FUND - DIRECT PLAN - IDCW (Payout/Reinvestment);INF760K01DS5;INF760K01DT3;23.7100;23.7100;23.7100;13-May-2016
+112152;CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - GROWTH OPTION;INF760K01241;;24.8700;24.8700;24.8700;13-May-2016
+112153;CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01225;INF760K01233;19.3700;19.3700;19.3700;13-May-2016
 118267;CANARA ROBECO INFRASTRUCTURE FUND - DIRECT PLAN - GROWTH OPTION;INF760K01FO9;;36.2100;36.2100;36.2100;13-May-2016
 118268;CANARA ROBECO INFRASTRUCTURE FUND - DIRECT PLAN - IDCW (Payout/Reinvestment);INF760K01FM3;INF760K01FN1;26.0600;26.0600;26.0600;13-May-2016
 103390;CANARA ROBECO INFRASTRUCTURE FUND - REGULAR PLAN - GROWTH OPTION;INF760K01274;;35.4800;35.4800;35.4800;13-May-2016
@@ -3657,13 +3657,13 @@ Franklin Templeton Mutual Fund
 101246;Franklin India Short-Term Income Plan-Institutional Plan - Monthly Dividend;INF090I01387;INF090I01395;1267.4796;1261.1422;1267.4796;13-May-2016
 
 Groww Mutual Fund
-123708;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund )- Regular Plan - Growth Option;INF666M01AJ5;;1262.7383;1262.7383;1262.7383;13-May-2016
-123704;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund) - Direct Plan - Growth Option;INF666M01AC0;;1307.3489;1307.3489;1307.3489;13-May-2016
-123706;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AH9;INF666M01AE6;1003.5625;1003.5625;1003.5625;13-May-2016
-123707;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AI7;INF666M01AF3;1013.7428;1013.7428;1013.7428;13-May-2016
-123705;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AG1;INF666M01AD8;1005.9553;1005.9553;1005.9553;13-May-2016
-123711;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AP2;INF666M01AM9;1013.4405;1013.4405;1013.4405;13-May-2016
-123709;Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AN7;INF666M01AK3;1010.9553;1010.9553;1010.9553;13-May-2016
+123708;Groww Short Term Fund (formerly known as Indiabulls Short Term Fund )- Regular Plan - Growth Option;INF666M01AJ5;;1262.7383;1262.7383;1262.7383;13-May-2016
+123704;Groww Short Term Fund (formerly known as Indiabulls Short Term Fund) - Direct Plan - Growth Option;INF666M01AC0;;1307.3489;1307.3489;1307.3489;13-May-2016
+123706;Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AH9;INF666M01AE6;1003.5625;1003.5625;1003.5625;13-May-2016
+123707;Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AI7;INF666M01AF3;1013.7428;1013.7428;1013.7428;13-May-2016
+123705;Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AG1;INF666M01AD8;1005.9553;1005.9553;1005.9553;13-May-2016
+123711;Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AP2;INF666M01AM9;1013.4405;1013.4405;1013.4405;13-May-2016
+123709;Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01AN7;INF666M01AK3;1010.9553;1010.9553;1010.9553;13-May-2016
 
 HDFC Mutual Fund
 119015;HDFC Short Term  Debt Fund - Fortnightly IDCW - Direct Plan;;;10.1730;10.1476;10.1730;13-May-2016
@@ -6232,8 +6232,8 @@ Tata Mutual Fund
 119251;Tata Retirement Savings Fund- Progressive Plan -Direct Plan-Growth Option;INF277K01QO1;;19.9721;19.3729;19.9721;13-May-2016
 
 UTI Mutual Fund
-100682;UTI Retirement Fund - Regular Plan;;;20.6039;20.6039;20.6039;13-May-2016
-120766;UTI Retirement Fund- Direct Plan;;;20.9727;20.9727;20.9727;13-May-2016
+100682;UTI Retirement Fund - Regular Plan;INF789F1AA56;;20.6039;20.6039;20.6039;13-May-2016
+120766;UTI Retirement Fund- Direct Plan;INF789F1AA64;;20.9727;20.9727;20.9727;13-May-2016
 
 Open Ended Schemes ( Solution Oriented Scheme - Children’s Fund )
 
@@ -6275,12 +6275,12 @@ Tata Mutual Fund
 119296;Tata Young Citizens' Fund [Upto 3 years]-Direct Plan Growth;;;21.7129;21.0615;21.7129;13-May-2016
 
 UTI Mutual Fund
-120724;UTI Children's Equity Fund - Direct Plan - Growth Option;;;26.3243;26.3243;26.3243;13-May-2016
-120725;UTI Children's Equity Fund - Direct Plan - IDCW;;;26.3606;26.3606;26.3606;13-May-2016
-102267;UTI Children's Equity Fund - Regular Plan - Growth Option;;;25.8617;25.8617;25.8617;13-May-2016
-102266;UTI Children's Equity Fund - Regular Plan - IDCW;;;25.8637;25.8637;25.8637;13-May-2016
-120771;UTI Children's Hybrid Fund - Direct Plan;;;18.4357;18.4357;18.4357;13-May-2016
-100678;UTI Children's Hybrid Fund - Regular Plan;;;18.3672;18.3672;18.3672;13-May-2016
+120724;UTI Children's Equity Fund - Direct Plan - Growth Option;INF789F1AZV0;;26.3243;26.3243;26.3243;13-May-2016
+120725;UTI Children's Equity Fund - Direct Plan - IDCW;INF789F1AZZ1;;26.3606;26.3606;26.3606;13-May-2016
+102267;UTI Children's Equity Fund - Regular Plan - Growth Option;INF789F1AZT4;;25.8617;25.8617;25.8617;13-May-2016
+102266;UTI Children's Equity Fund - Regular Plan - IDCW;INF789F1AZX6;;25.8637;25.8637;25.8637;13-May-2016
+120771;UTI Children's Hybrid Fund - Direct Plan;INF789F1AZR8;;18.4357;18.4357;18.4357;13-May-2016
+100678;UTI Children's Hybrid Fund - Regular Plan;INF789F1AZP2;;18.3672;18.3672;18.3672;13-May-2016
 
 Open Ended Schemes ( Other Scheme - Index Funds )
 
@@ -6413,7 +6413,7 @@ IDBI Mutual Fund
 115939;IDBI Gold Exchange Traded Fund;INF397L01554;;2915.6315;2915.6315;0.0000;13-May-2016
 
 Invesco Mutual Fund
-112368;Invesco India Gold Exchange Traded Fund;INF205K01361;;2870.5167;2870.5167;2870.5167;13-May-2016
+112368;Invesco India Gold Exchange Traded Fund;INF205KA1BP1;;2870.5167;2870.5167;2870.5167;13-May-2016
 
 Kotak Mahindra Mutual Fund
 106193;KOTAK GOLD ETF;INF174KA1HJ8;;277.9688;277.9688;277.9688;13-May-2016
@@ -6452,8 +6452,8 @@ Invesco Mutual Fund
 Kotak Mahindra Mutual Fund
 109010;Kotak BSE Sensex ETF;INF174KA1JD7;;259.4743;259.4743;259.4743;13-May-2016
 112351;Kotak Nifty 50 ETF;INF174K014P6;;783.0546;783.0546;783.0546;13-May-2016
-135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;35.2231;35.2231;35.2231;13-May-2016
-133122;Kotak Nifty Bank ETF;INF174K01F59;;168.441;168.441;168.441;13-May-2016
+135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174KA1ZE1;;35.2231;35.2231;35.2231;13-May-2016
+133122;Kotak Nifty Bank ETF;INF174KA1ZB7;;168.441;168.441;168.441;13-May-2016
 106929;Kotak Nifty PSU Bank ETF;INF373I01023;;239.47;239.47;239.47;13-May-2016
 
 LIC Mutual Fund
@@ -6725,6 +6725,9 @@ HSBC Mutual Fund
 129192;HSBC Multi Asset Active FOF IDCW;INF336L01IE1;INF336L01IF8;12.7205;12.7205;12.7205;13-May-2016
 
 ICICI Prudential Mutual Fund
+120700;ICICI Prudential Aggressive Hybrid Active FOF - Direct Plan - Growth;INF109K01X40;;53.5736;53.0379;53.5736;13-May-2016
+102135;ICICI Prudential Aggressive Hybrid Active FOF - Growth;INF109K01852;;53.3378;52.8044;53.3378;13-May-2016
+102136;ICICI Prudential Aggressive Hybrid Active FOF - IDCW;INF109K01FR2;INF109K01860;53.3378;52.8044;53.3378;13-May-2016
 120702;ICICI Prudential Diversified Debt Strategy Active FOF  - Direct Plan - Growth;INF109K01X73;;23.7577;23.7577;23.7577;13-May-2016
 120703;ICICI Prudential Diversified Debt Strategy Active FOF - Direct Plan -  IDCW;INF109K01X57;INF109K01X65;23.8459;23.8459;23.8459;13-May-2016
 102141;ICICI Prudential Diversified Debt Strategy Active FOF - Growth;INF109K01878;;23.5978;23.5978;23.5978;13-May-2016
@@ -6745,9 +6748,6 @@ ICICI Prudential Mutual Fund
 120242;ICICI Prudential Multi Sector Passive FOF - Direct Plan - Growth;INF109K01W58;;47.9876;47.5077;47.9876;13-May-2016
 102133;ICICI Prudential Multi Sector Passive FOF - Growth;INF109K01795;;47.2190;46.7468;47.2190;13-May-2016
 102134;ICICI Prudential Multi Sector Passive FOF - IDCW;INF109K01DW7;INF109K01803;47.2190;46.7468;47.2190;13-May-2016
-120700;ICICI Prudential Thematic Advantage Fund (FOF) - Direct Plan - Growth;INF109K01X40;;53.5736;53.0379;53.5736;13-May-2016
-102135;ICICI Prudential Thematic Advantage Fund (FOF) - Growth;INF109K01852;;53.3378;52.8044;53.3378;13-May-2016
-102136;ICICI Prudential Thematic Advantage Fund (FOF) - IDCW;INF109K01FR2;INF109K01860;53.3378;52.8044;53.3378;13-May-2016
 
 IDBI Mutual Fund
 117714;IDBI GOLD FUND;INF397L01992;;9.2923;9.1994;9.2923;13-May-2016
@@ -12949,12 +12949,12 @@ Nippon India Mutual Fund
 105229;Nippon India Interval Fund-Monthly Interval Fund-Series-I- Growth Option;INF204K01CV0;;20.3476;20.3476;20.3476;13-May-2016
 105232;Nippon India Interval Fund-Monthly Interval Fund-Series-I-Institutional Plan-Dividend Option;INF204K01CZ1;INF204K01DA2;10.0500;10.0500;10.0500;13-May-2016
 118596;NIPPON INDIA MONTHLY INTERVAL FUND - SERIES I - Direct Plan - IDCW Option;INF204K01ZB3;INF204K01ZC1;10.0507;10.0507;10.0507;13-May-2016
-118598;Nippon India Monthly Interval Fund - Series I - Direct Plan Growth Plan - Growth;INF204K01ZA5;-;20.3882;20.3882;20.3882;13-May-2016
+118598;Nippon India Monthly Interval Fund - Series I - Direct Plan Growth Plan - Growth;INF204K01ZA5;;20.3882;20.3882;20.3882;13-May-2016
 105230;NIPPON INDIA MONTHLY INTERVAL FUND - SERIES I - IDCW Option;INF204K01CW8;INF204K01CX6;10.0500;10.0500;10.0500;13-May-2016
 105400;Nippon India Interval Fund-Monthly Interval Fund-Series-II -Growth Option;INF204K01DB0;;20.3955;20.3955;20.3955;13-May-2016
 105402;Nippon India Interval Fund-Monthly Interval Fund-Series-II-Institutional Plan-Dividend Option;INF204K01DF1;INF204K01DG9;10.0226;10.0226;10.0226;13-May-2016
 118594;NIPPON INDIA MONTHLY INTERVAL FUND - SERIES II - Direct Plan - IDCW Option;INF204K01ZE7;INF204K01ZF4;10.0238;10.0238;10.0238;13-May-2016
-118595;Nippon India Monthly Interval Fund - Series II - Direct Plan Growth Plan - Growth;INF204K01ZD9;-;20.4357;20.4357;20.4357;13-May-2016
+118595;Nippon India Monthly Interval Fund - Series II - Direct Plan Growth Plan - Growth;INF204K01ZD9;;20.4357;20.4357;20.4357;13-May-2016
 105401;NIPPON INDIA MONTHLY INTERVAL FUND - SERIES II - IDCW Option;INF204K01DC8;INF204K01DD6;10.0226;10.0226;10.0226;13-May-2016
 105691;Nippon India Interval Fund-Quarterly Interval Fund Serie-II-Institutional Plan -Dividend Option;INF204K01DR6;INF204K01DS4;10.0356;10.0356;10.0356;13-May-2016
 105689;Nippon India Interval Fund-Quarterly Interval Fund Series-II-Growth Option;INF204K01DN5;;20.8752;20.8752;20.8752;13-May-2016
@@ -12962,14 +12962,14 @@ Nippon India Mutual Fund
 118691;Nippon India Quarterly Interval Fund - Series II - Direct Plan Growth Plan - Growth;INF204K01F61;-;20.9481;20.9481;20.9481;13-May-2016
 105692;NIPPON INDIA QUARTERLY INTERVAL FUND - SERIES II - IDCW Option;INF204K01DO3;INF204K01DP0;10.0348;10.0348;10.0348;13-May-2016
 118621;NIPPON INDIA INTERVAL FUND - QUARTERLY PLAN - SERIES I - Direct Plan - IDCW Option;INF204K01XU8;INF204K01XV6;10.0994;10.0994;10.0994;13-May-2016
-118623;Nippon India Interval Fund - Quarterly Plan - Series I - Direct Plan Growth Plan - Growth;INF204K01XT0;-;20.8130;20.8130;20.8130;13-May-2016
+118623;Nippon India Interval Fund - Quarterly Plan - Series I - Direct Plan Growth Plan - Growth;INF204K01XT0;;20.8130;20.8130;20.8130;13-May-2016
 105434;NIPPON INDIA INTERVAL FUND - QUARTERLY PLAN - SERIES I - IDCW Option;INF204K01DI5;INF204K01DJ3;10.0988;10.0988;10.0988;13-May-2016
 105436;NIPPON INDIA INTERVAL FUND - QUARTERLY PLAN - SERIES I - INSTITUTIONAL IDCW Option;INF204K01DL9;INF204K01DM7;10.0990;10.0990;10.0990;13-May-2016
 105433;Nippon India Interval Fund-Quarterly Interval Fund-Series-I - Growth Option;INF204K01DH7;;20.7509;20.7509;20.7509;13-May-2016
 105884;Nippon India Interval Fund-Quarterly Interval Fund-Series-III- Growth Option;INF204K01DT2;;20.7262;20.7262;20.7262;13-May-2016
 105882;Nippon India Interval Fund-Quarterly Interval Fund-Series-III-Institutional Plan-Growth Option;INF204K01DW6;;17.9330;17.9330;17.9330;13-May-2016
 118584;NIPPON INDIA QUARTERLY INTERVAL FUND - SERIES III - Direct Plan - IDCW Option;INF204K01XX2;INF204K01XY0;10.1639;10.1639;10.1639;13-May-2016
-118583;Nippon India Quarterly Interval Fund - Series III - Direct Plan Growth Plan - Growth;INF204K01XW4;-;12.6087;12.6087;12.6087;13-May-2016
+118583;Nippon India Quarterly Interval Fund - Series III - Direct Plan Growth Plan - Growth;INF204K01XW4;;12.6087;12.6087;12.6087;13-May-2016
 105885;NIPPON INDIA QUARTERLY INTERVAL FUND - SERIES III - IDCW Option;INF204K01DU0;INF204K01DV8;10.1668;10.1668;10.1668;13-May-2016
 105883;NIPPON INDIA QUARTERLY INTERVAL FUND - SERIES III - INSTITUTIONAL IDCW Option;INF204K01DX4;INF204K01DY2;10.1666;10.1666;10.1666;13-May-2016
 120800;Nippon India Yearly Interval Fund - Series 1 - Direct Plan - Dividend Plan - Dividend Option;INF204K01M47;INF204K01M54;10.2566;10.2566;10.2566;13-May-2016
