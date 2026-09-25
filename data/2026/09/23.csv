@@ -77,14 +77,6 @@ Motilal Oswal Mutual Fund
 152651;Motilal Oswal Multi Cap Fund-Direct Plan Growth;;;INF247L01CL8;;15.6806;23-Sep-2026
 152652;Motilal Oswal Multi Cap Fund-Direct Plan IDCW;;;INF247L01CM6;INF247L01CN4;15.4501;23-Sep-2026
 
-Nippon India Mutual Fund
-118652;NIPPON INDIA MULTI CAP FUND - DIRECT Plan - IDCW Option;Direct Plan;IDCW Option;INF204K01XD4;INF204K01XE2;85.7573;23-Sep-2026
-118651;Nippon India Multi Cap Fund - Direct Plan Growth Plan - Bonus Option;Direct Plan;Bonus Option;INF204K01D55;;331.4289;23-Sep-2026
-118650;Nippon India Multi Cap Fund - Direct Plan Growth Plan - Growth Option;Direct Plan;Growth Option;INF204K01XF9;;331.4289;23-Sep-2026
-101163;NIPPON INDIA MULTI CAP FUND - IDCW Option;Regular Plan;IDCW Option;INF204K01455;INF204K01463;58.9713;23-Sep-2026
-101162;Nippon India Multi Cap Fund-Growth Plan-Bonus Option;Regular Plan;Bonus Option;INF204K01471;;299.3600;23-Sep-2026
-101161;Nippon India Multi Cap Fund-Growth Plan-Growth Option;Regular Plan;Growth Option;INF204K01489;;299.3600;23-Sep-2026
-
 PGIM India Mutual Fund
 152815;PGIM India Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Direct Growth;INF663L01Z03;;11.1;23-Sep-2026
 152817;PGIM India Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;Direct IDCW;INF663L01Z11;INF663L01Z29;11.1;23-Sep-2026
@@ -799,6 +791,12 @@ Baroda BNP Paribas Mutual Fund
 151756;Baroda BNP Paribas Value Fund - Direct Plan - IDCW option;Direct Plan;IDCW Option;INF251K01SE3;INF251K01SF0;12.9277;23-Sep-2026
 151747;Baroda BNP Paribas Value Fund - Regular Plan - Growth option;Regular Plan;Growth Option;INF251K01SA1;;13.5940;23-Sep-2026
 151754;Baroda BNP Paribas Value Fund - Regular Plan - IDCW option;Regular Plan;IDCW Option;INF251K01SB9;INF251K01SC7;12.3945;23-Sep-2026
+
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;Direct Plan;Growth;INF740KA1PP3;;24.4330;23-Sep-2026
+148596;DSP Value Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF740KA1PQ1;INF740KA1PR9;18.5070;23-Sep-2026
+148594;DSP Value Fund - Regular Plan - Growth;Regular Plan;Growth;INF740KA1PM0;;23.3580;23-Sep-2026
+148597;DSP Value Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF740KA1PN8;INF740KA1PO6;16.3260;23-Sep-2026
 
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;Direct Plan;Growth;INF090I01GY2;;764.4167;23-Sep-2026
@@ -5359,6 +5357,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;Direct Plan;IDCW;INF084M01EC8;INF084M01ED6;31.1551;23-Sep-2026
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;Direct Plan;GROWTH;INF084M01EB0;;35.2255;23-Sep-2026
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;Regular Plan;IDCW Re-investment;INF084M01AU8;INF084M01AV6;33.4426;23-Sep-2026
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;Regular Plan;GROWTH;INF084M01AT0;;33.4366;23-Sep-2026
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;Direct Plan;GROWTH;INF084M01EH7;;47.2662;23-Sep-2026
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;Regular Plan;GROWTH;INF084M01AZ7;;44.1278;23-Sep-2026
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;;;INF084M01EI5;INF084M01EJ3;47.2904;23-Sep-2026
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;Regular Plan;IDCW Re-investment;INF084M01BA8;INF084M01BB6;44.1551;23-Sep-2026
 152140;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct Growth;Direct Plan;GROWTH;INF209KB16W7;;12.8463;23-Sep-2026
 152139;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct IDCW Payout;Direct Plan;IDCW;INF209KB17W5;INF209KB18W3;12.8463;23-Sep-2026
 152142;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Regular Growth;Regular Plan;GROWTH;INF209KB13W4;;12.8292;23-Sep-2026
@@ -5389,6 +5395,10 @@ DSP Mutual Fund
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;Regular Plan;Growth;INF740K01284;;27.7964;23-Sep-2026
 112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;Regular Plan;IDCW;INF740K01292;INF740K01300;19.3272;23-Sep-2026
 119275;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;Direct Plan;Growth;INF740K01PC5;;29.4656;23-Sep-2026
+149816;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;Direct Plan;Growth;INF740KA1QP1;;23.2960;23-Sep-2026
+149815;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;Direct Plan;IDCW;INF740KA1QQ9;INF740KA1QR7;23.2960;23-Sep-2026
+149817;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;Regular Plan;Growth;INF740KA1QM8;;22.3442;23-Sep-2026
+149814;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;Regular Plan;IDCW;INF740KA1QN6;INF740KA1QO4;22.3442;23-Sep-2026
 152528;DSP US Specific Debt Passive FoF - Direct - Growth;Direct Plan;Growth;INF740KA1UJ6;;12.2784;23-Sep-2026
 152529;DSP US Specific Debt Passive FoF - Direct - IDCW;Direct Plan;IDCW;INF740KA1UK4;INF740KA1UL2;12.2784;23-Sep-2026
 152527;DSP US Specific Debt Passive FoF - Regular - Growth;Regular Plan;Growth;INF740KA1UG2;;12.2629;23-Sep-2026
@@ -5473,6 +5483,12 @@ SBI Mutual Fund
 148761;SBI US Specific Equity Active FoF- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1U36;INF200KA1U44;25.1087;23-Sep-2026
 148762;SBI US Specific Equity Active FoF- Regular Plan - Growth;Regular Plan;Growth;INF200KA1T96;;24.1243;23-Sep-2026
 148759;SBI US Specific Equity Active FoF- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1U02;INF200KA1U10;24.1235;23-Sep-2026
+
+Sundaram Mutual Fund
+119602;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;Direct Plan;GROWTH;INF903J01OB6;;47.8105;23-Sep-2026
+119601;Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW;Direct Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF903J01NZ7;INF903J01OA8;40.1245;23-Sep-2026
+106370;Sundaram Global Brand Theme-Equity Active FOF - Regular Growth;Regular Plan;GROWTH;INF903J01EX1;;43.1836;23-Sep-2026
+106369;Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW;Regular Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF903J01EY9;INF903J01EZ6;34.9088;23-Sep-2026
 
 Open Ended Schemes ( Other Scheme - FoF Domestic )
 
@@ -8417,6 +8433,14 @@ Mirae Asset Mutual Fund
 151811;Mirae Asset Multicap Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF769K01KL6;INF769K01KM4;15.441;23-Sep-2026
 151812;Mirae Asset Multicap Fund - Regular Plan - Growth;Regular Plan;Growth;INF769K01KH4;;14.754;23-Sep-2026
 151813;Mirae Asset Multicap Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF769K01KI2;INF769K01KJ0;14.743;23-Sep-2026
+
+Nippon India Mutual Fund
+118652;NIPPON INDIA MULTI CAP FUND - DIRECT Plan - IDCW Option;Direct Plan;IDCW Option;INF204K01XD4;INF204K01XE2;85.7573;23-Sep-2026
+118651;Nippon India Multi Cap Fund - Direct Plan Growth Plan - Bonus Option;Direct Plan;Bonus Option;INF204K01D55;;331.4289;23-Sep-2026
+118650;Nippon India Multi Cap Fund - Direct Plan Growth Plan - Growth Option;Direct Plan;Growth Option;INF204K01XF9;;331.4289;23-Sep-2026
+101163;NIPPON INDIA MULTI CAP FUND - IDCW Option;Regular Plan;IDCW Option;INF204K01455;INF204K01463;58.9713;23-Sep-2026
+101162;Nippon India Multi Cap Fund-Growth Plan-Bonus Option;Regular Plan;Bonus Option;INF204K01471;;299.3600;23-Sep-2026
+101161;Nippon India Multi Cap Fund-Growth Plan-Growth Option;Regular Plan;Growth Option;INF204K01489;;299.3600;23-Sep-2026
 
 The Wealth Company Mutual Fund
 154664;The Wealth Company Multi Cap Fund;Regular Plan;Growth;INF2F0001685;;9.9969;23-Sep-2026
