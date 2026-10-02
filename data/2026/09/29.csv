@@ -772,6 +772,12 @@ Baroda BNP Paribas Mutual Fund
 151747;Baroda BNP Paribas Value Fund - Regular Plan - Growth option;Regular Plan;Growth Option;INF251K01SA1;;13.1816;29-Sep-2026
 151754;Baroda BNP Paribas Value Fund - Regular Plan - IDCW option;Regular Plan;IDCW Option;INF251K01SB9;INF251K01SC7;12.0185;29-Sep-2026
 
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;Direct Plan;Growth;INF740KA1PP3;;23.8360;29-Sep-2026
+148596;DSP Value Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF740KA1PQ1;INF740KA1PR9;18.0540;29-Sep-2026
+148594;DSP Value Fund - Regular Plan - Growth;Regular Plan;Growth;INF740KA1PM0;;22.7830;29-Sep-2026
+148597;DSP Value Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF740KA1PN8;INF740KA1PO6;15.9240;29-Sep-2026
+
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;Direct Plan;Growth;INF090I01GY2;;739.6184;29-Sep-2026
 118493;Templeton India Value Fund - Direct - IDCW ;Direct Plan;IDCW;INF090I01GW6;INF090I01GX4;100.3194;29-Sep-2026
@@ -2113,16 +2119,6 @@ Zerodha Mutual Fund
 Open Ended Schemes ( Debt Scheme - Liquid Fund )
 
 
-Aditya Birla Sun Life Mutual Fund
-100047;Aditya Birla Sun Life Liquid Fund - Growth;Regular Plan;GROWTH;INF209K01RU9;;453.9973;29-Sep-2026
-119568;Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan;Direct Plan;GROWTH;INF209K01VA3;;460.2500;29-Sep-2026
-100046;Aditya Birla Sun Life Liquid Fund -Daily IDCW;Regular Plan;Daily IDCW;INF209K01KQ2;INF209K01SQ5;100.1950;29-Sep-2026
-119569;Aditya Birla Sun Life Liquid Fund -Direct - daily IDCW;Direct Plan;Daily IDCW;INF209K01UZ2;;100.1950;29-Sep-2026
-119571;Aditya Birla Sun Life Liquid Fund -DIRECT - IDCW;Direct Plan;IDCW;INF209K01VD7;;138.4172;29-Sep-2026
-119570;Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW;Direct Plan;Weekly IDCW;INF209K01VC9;;100.2850;29-Sep-2026
-103885;Aditya Birla Sun Life Liquid Fund -Regular - IDCW;Regular Plan;IDCW;INF209KA1LI1;;105.2517;29-Sep-2026
-100051;Aditya Birla Sun Life Liquid Fund -weekly IDCW;Regular Plan;Weekly IDCW;INF209K01KU4;INF209KA1LJ9;100.2835;29-Sep-2026
-
 Bajaj Finserv Mutual Fund
 151835;Bajaj Finserv Liquid Fund - Direct Plan - Daily - IDCW;Direct Plan;Daily - IDCW;;INF0QA701029;1034.6939;29-Sep-2026
 151838;Bajaj Finserv Liquid Fund - Direct Plan - Fortnightly - IDCW;Direct Plan;Fortnightly - IDCW;INF0QA701078;INF0QA701045;1035.7933;29-Sep-2026
@@ -2890,16 +2886,6 @@ UTI Mutual Fund
 
 Open Ended Schemes ( Debt Scheme - Banking and PSU Fund )
 
-
-Aditya Birla Sun Life Mutual Fund
-119551;Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW;Direct Plan;IDCW-Re-investment;INF209KA12Z1;INF209KA13Z9;106.8912;29-Sep-2026
-119552;Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - MONTHLY IDCW;Direct Plan;MONTHLY DCW Payout;INF209K01YM2;;116.3384;29-Sep-2026
-119553;Aditya Birla Sun Life Banking & PSU Debt Fund  - Direct - Quarterly IDCW;Direct Plan;QUARTERLY IDCW Payout;INF209K01YO8;;103.6810;29-Sep-2026
-108272;Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - IDCW;Regular Plan;IDCW-Re-investment;INF209K01LX6;INF209KA11Z3;149.5123;29-Sep-2026
-110282;Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - MONTHLY IDCW;Regular Plan;MONTHLY IDCW Payout;INF209K01LU2;;111.5803;29-Sep-2026
-108274;Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - Quarterly IDCW;Regular Plan;QUARTERLY IDCW Payout;INF209K01LN7;;101.2237;29-Sep-2026
-108273;Aditya Birla Sun Life Banking & PSU Debt Fund - Regular Plan-Growth;Regular Plan;GROWTH;INF209K01LV0;;387.3195;29-Sep-2026
-119550;Aditya Birla Sun Life Banking & PSU Debt Fund- Direct Plan-Growth;Direct Plan;GROWTH;INF209K01YN0;;403.6836;29-Sep-2026
 
 Franklin Templeton Mutual Fund
 129008;Franklin India Banking & PSU Debt Fund - Direct - Growth;Direct Plan;Growth;INF090I01KR8;;25.3007;29-Sep-2026
@@ -4533,10 +4519,6 @@ Kotak Mahindra Mutual Fund
 153462;Kotak Nifty Top 10 Equal Weight Index Fund-Direct Plan-IDCW-Payout and Reinvestment;Direct Plan;IDCW-Payout and Reinvestment;INF174KA1WE8;INF174KA1WF5;8.563;29-Sep-2026
 153463;Kotak Nifty Top 10 Equal Weight Index Fund-Regular Plan-Growth;Regular Plan;Growth;INF174KA1WG3;;8.478;29-Sep-2026
 153464;Kotak Nifty Top 10 Equal Weight Index Fund-Regular Plan-IDCW Payout and Reinvestment;Regular Plan;IDCW-Payout and Reinvestment;INF174KA1WH1;INF174KA1WI9;8.478;29-Sep-2026
-154145;Kotak Nifty200 Value 30 Index Fund - Direct - Growth;Direct Plan;Growth;INF174KA1YP0;;9.145;29-Sep-2026
-154146;Kotak Nifty200 Value 30 Index Fund - Direct - IDCW;Direct Plan;IDCW;INF174KA1YQ8;INF174KA1YR6;9.146;29-Sep-2026
-154148;Kotak Nifty200 Value 30 Index Fund - Regular - Growth;Regular Plan;Growth;INF174KA1YS4;;9.127;29-Sep-2026
-154147;Kotak Nifty200 Value 30 Index Fund - Regular - IDCW;Regular Plan;IDCW;INF174KA1YT2;INF174KA1YU0;9.127;29-Sep-2026
 154032;Kotak Nifty500 Momentum 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF174KA1YC8;;9.994;29-Sep-2026
 154029;Kotak Nifty500 Momentum 50 Index Fund - Direct Plan - IDCW - Payout & Investment;Direct Plan;IDCW - Payout & Reinvestment;INF174KA1YD6;INF174KA1YE4;9.994;29-Sep-2026
 154030;Kotak Nifty500 Momentum 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF174KA1YF1;;9.968;29-Sep-2026
@@ -5289,6 +5271,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;Direct Plan;IDCW;INF084M01EC8;INF084M01ED6;31.2566;29-Sep-2026
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;Direct Plan;GROWTH;INF084M01EB0;;35.3403;29-Sep-2026
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;Regular Plan;IDCW Re-investment;INF084M01AU8;INF084M01AV6;33.5485;29-Sep-2026
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;Regular Plan;GROWTH;INF084M01AT0;;33.5425;29-Sep-2026
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;Direct Plan;GROWTH;INF084M01EH7;;47.5169;29-Sep-2026
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;Regular Plan;GROWTH;INF084M01AZ7;;44.3574;29-Sep-2026
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;;;INF084M01EI5;INF084M01EJ3;47.5412;29-Sep-2026
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;Regular Plan;IDCW Re-investment;INF084M01BA8;INF084M01BB6;44.3849;29-Sep-2026
 152140;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct Growth;Direct Plan;GROWTH;INF209KB16W7;;12.8728;29-Sep-2026
 152139;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct IDCW Payout;Direct Plan;IDCW;INF209KB17W5;INF209KB18W3;12.8728;29-Sep-2026
 152142;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Regular Growth;Regular Plan;GROWTH;INF209KB13W4;;12.8556;29-Sep-2026
@@ -5319,6 +5309,10 @@ DSP Mutual Fund
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;Regular Plan;Growth;INF740K01284;;27.4128;29-Sep-2026
 112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;Regular Plan;IDCW;INF740K01292;INF740K01300;19.0604;29-Sep-2026
 119275;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;Direct Plan;Growth;INF740K01PC5;;29.0614;29-Sep-2026
+149816;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;Direct Plan;Growth;INF740KA1QP1;;23.3256;29-Sep-2026
+149815;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;Direct Plan;IDCW;INF740KA1QQ9;INF740KA1QR7;23.3256;29-Sep-2026
+149817;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;Regular Plan;Growth;INF740KA1QM8;;22.3693;29-Sep-2026
+149814;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;Regular Plan;IDCW;INF740KA1QN6;INF740KA1QO4;22.3693;29-Sep-2026
 152528;DSP US Specific Debt Passive FoF - Direct - Growth;Direct Plan;Growth;INF740KA1UJ6;;12.1859;29-Sep-2026
 152529;DSP US Specific Debt Passive FoF - Direct - IDCW;Direct Plan;IDCW;INF740KA1UK4;INF740KA1UL2;12.1859;29-Sep-2026
 152527;DSP US Specific Debt Passive FoF - Regular - Growth;Regular Plan;Growth;INF740KA1UG2;;12.1705;29-Sep-2026
@@ -6146,6 +6140,16 @@ Abakkus Mutual Fund
 154054;Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment;Regular Plan;Quarterly IDCW Reinvestment;;INF2JJD01102;101.4666;29-Sep-2026
 154056;Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment;Regular Plan;Weekly IDCW Reinvestment;;INF2JJD01094;100.0760;29-Sep-2026
 154521;Abakkus Liquid Fund - Unclaimed Redemption Less than 3 Years;Direct Plan;Unclaimed Redemption Less Than 3 years;;;101.1390;29-Sep-2026
+
+Aditya Birla Sun Life Mutual Fund
+100047;Aditya Birla Sun Life Liquid Fund - Growth;Regular Plan;GROWTH;INF209K01RU9;;453.9973;29-Sep-2026
+119568;Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan;Direct Plan;GROWTH;INF209K01VA3;;460.2500;29-Sep-2026
+100046;Aditya Birla Sun Life Liquid Fund -Daily IDCW;Regular Plan;Daily IDCW;INF209K01KQ2;INF209K01SQ5;100.1950;29-Sep-2026
+119569;Aditya Birla Sun Life Liquid Fund -Direct - daily IDCW;Direct Plan;Daily IDCW;INF209K01UZ2;;100.1950;29-Sep-2026
+119571;Aditya Birla Sun Life Liquid Fund -DIRECT - IDCW;Direct Plan;IDCW;INF209K01VD7;;138.4172;29-Sep-2026
+119570;Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW;Direct Plan;Weekly IDCW;INF209K01VC9;;100.2850;29-Sep-2026
+103885;Aditya Birla Sun Life Liquid Fund -Regular - IDCW;Regular Plan;IDCW;INF209KA1LI1;;105.2517;29-Sep-2026
+100051;Aditya Birla Sun Life Liquid Fund -weekly IDCW;Regular Plan;Weekly IDCW;INF209K01KU4;INF209KA1LJ9;100.2835;29-Sep-2026
 
 ASK MUTUAL FUND
 154591;ASK Liquid Fund Direct Daily IDCW;Direct Plan;Daily IDCW;;INF2XUU01039;1000.0255;29-Sep-2026
@@ -7871,6 +7875,16 @@ UTI Mutual Fund
 
 Open Ended Schemes ( Income/Debt Oriented Schemes - Banking and PSU Debt Fund )
 
+
+Aditya Birla Sun Life Mutual Fund
+119551;Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW;Direct Plan;IDCW-Re-investment;INF209KA12Z1;INF209KA13Z9;106.8912;29-Sep-2026
+119552;Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - MONTHLY IDCW;Direct Plan;MONTHLY DCW Payout;INF209K01YM2;;116.3384;29-Sep-2026
+119553;Aditya Birla Sun Life Banking & PSU Debt Fund  - Direct - Quarterly IDCW;Direct Plan;QUARTERLY IDCW Payout;INF209K01YO8;;103.6810;29-Sep-2026
+108272;Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - IDCW;Regular Plan;IDCW-Re-investment;INF209K01LX6;INF209KA11Z3;149.5123;29-Sep-2026
+110282;Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - MONTHLY IDCW;Regular Plan;MONTHLY IDCW Payout;INF209K01LU2;;111.5803;29-Sep-2026
+108274;Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - Quarterly IDCW;Regular Plan;QUARTERLY IDCW Payout;INF209K01LN7;;101.2237;29-Sep-2026
+108273;Aditya Birla Sun Life Banking & PSU Debt Fund - Regular Plan-Growth;Regular Plan;GROWTH;INF209K01LV0;;387.3195;29-Sep-2026
+119550;Aditya Birla Sun Life Banking & PSU Debt Fund- Direct Plan-Growth;Direct Plan;GROWTH;INF209K01YN0;;403.6836;29-Sep-2026
 
 Axis Mutual Fund
 120437;Axis Banking & PSU Debt Fund - Direct Plan - Daily IDCW;Direct Plan;Daily IDCW;;INF846K01CU0;1035.9916;29-Sep-2026
@@ -10344,6 +10358,10 @@ Kotak Mahindra Mutual Fund
 154569;Kotak Nifty Bank Index Fund - Direct - IDCW;Direct Plan;IDCW;INF174KA1C76;INF174KA1C84;9.403;29-Sep-2026
 154570;Kotak Nifty Bank Index Fund - Regular - Growth;Regular Plan;Growth;INF174KA1C92;;9.399;29-Sep-2026
 154572;Kotak Nifty Bank Index Fund - Regular - IDCW;Regular Plan;IDCW;INF174KA1D00;INF174KA1D18;9.399;29-Sep-2026
+154145;Kotak Nifty200 Value 30 Index Fund - Direct - Growth;Direct Plan;Growth;INF174KA1YP0;;9.145;29-Sep-2026
+154146;Kotak Nifty200 Value 30 Index Fund - Direct - IDCW;Direct Plan;IDCW;INF174KA1YQ8;INF174KA1YR6;9.146;29-Sep-2026
+154148;Kotak Nifty200 Value 30 Index Fund - Regular - Growth;Regular Plan;Growth;INF174KA1YS4;;9.127;29-Sep-2026
+154147;Kotak Nifty200 Value 30 Index Fund - Regular - IDCW;Regular Plan;IDCW;INF174KA1YT2;INF174KA1YU0;9.127;29-Sep-2026
 
 Mirae Asset Mutual Fund
 154720;Mirae Asset BSE Information Technology Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF769K01RO5;;9.8245;29-Sep-2026
